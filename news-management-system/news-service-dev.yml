@@ -1,0 +1,7 @@
+spring:
+  liquibase:
+    contexts: dev
+
+cache:
+  algorithm: LRU
+  capacity: 10
